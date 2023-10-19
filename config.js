@@ -6,35 +6,35 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['628xxx', 'Xyroinee', true]
+['6283730802015', 'Azkaa', true]
 ]
 global.mods = []
 global.prems = []
 // Info
 global.nomorwa = '628xxx'
-global.packname = 'anu - MD by'
-global.author = '© Xyroinee'
-global.namebot = '​anu - MD'
-global.wm = '© anu By Xyroine'
-global.stickpack = 'anu - MD by'
-global.stickauth = '© Xyroine'
-global.fotonya = 'https://telegra.ph/file/83b522fd80b660705d1cd.jpg'
+global.packname = 'Streliz - MD by'
+global.author = '© Azkaa'
+global.namebot = '​Streliz - MD'
+global.wm = '© Streliz By Azka'
+global.stickpack = 'Streliz - MD by'
+global.stickauth = '© Azkaa'
+global.fotonya = 'https://telegra.ph/file/94f85c38ae17bef10b56c.jpg'
 // Link Sosmed
-global.sig = 'https://www.instagram.com/xyroinee'
-global.sgh = 'https://github.com/Xyroinee'
-global.sgc = 'https://chat.whatsapp.com/'
+global.sig = 'https://www.instagram.com/Azkaazhrzlva_'
+global.sgh = 'https://github.com/Azkaazhrzlva'
+global.sgc = 'https://chat.whatsapp.com/DyIPRiPkRCt3rf2MQUOSll'
 // Donasi
-global.psaweria = 'https://saweria.co/Zeltoria'
-global.ptrakterr = 'https://trakteer.id/zeltoria'
-global.povo = '0896-1075-0607'
+global.psaweria = 'https://saweria.co/azkaazhrzlva'
+global.ptrakterr = 'https://trakteer.id/azkaazhrzlva'
+global.povo = '0838-3080-2015'
 // Info Wait
 global.wait = 'Sedang Di Proses, Mohon Tunggu....'
 global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
 global.multiplier = 69 
 // Apikey
-global.lol = 'apikeymu'
-global.rose = 'apikeymu'
-global.xyro = 'apikeymu'
+global.lol = 'cf1b2a5e6e52b735f96c9120'
+global.rose = 'Rs-putangina'
+global.xyro = 'qBzLJjhbAp'
 // Catatan : Jika Mau Work Fiturnya
 // Masukan Apikeymu
 // Gapunya Apikey? Ya Daftar
